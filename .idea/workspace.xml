@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db2baf7e-51d4-4599-8920-c11634be66df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dz66hiJXcnyDqsdLi1ukKiYi3c" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JKZDH" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py文件夹\codelab" />
+      <recent name="D:\py文件夹\codelab\cjsc" />
+      <recent name="D:\py文件夹\codelab\confo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.all">
+    <configuration name="删除前十条团队 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/删除前十条团队.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="创建十条团队" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/创建十条团队.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="前十团队创建十个成员" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\py文件夹\codelab\前十团队创建十个成员.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chuanjianchengyuan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cjsc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\py文件夹\codelab\cjsc\chuanjianchengyuan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shanchuzuopin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\py文件夹\codelab\cjsc\shanchuzuopin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for myhome.shanchuzuopin" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;myhome.shanchuzuopin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in shanchuzuopin.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="codelab" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/myhome/shanchuzuopin.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.all" />
+        <item itemvalue="Python.chuanjianchengyuan" />
+        <item itemvalue="Python.shanchuzuopin" />
+        <item itemvalue="Python tests.Nosetests in shanchuzuopin.py" />
+        <item itemvalue="Python tests.Nosetests for myhome.shanchuzuopin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2baf7e-51d4-4599-8920-c11634be66df" name="Default Changelist" comment="" />
+      <created>1593415400319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593415400319</updated>
+      <workItem from="1593415401897" duration="2344000" />
+      <workItem from="1593483578217" duration="17440000" />
+      <workItem from="1593563408512" duration="14544000" />
+      <workItem from="1593670849144" duration="10667000" />
+      <workItem from="1593736366450" duration="10090000" />
+      <workItem from="1593998312719" duration="10711000" />
+      <workItem from="1594081753304" duration="2962000" />
+      <workItem from="1594094392579" duration="205000" />
+      <workItem from="1594194081182" duration="8700000" />
+      <workItem from="1594352542409" duration="155000" />
+      <workItem from="1594374789457" duration="38000" />
+      <workItem from="1594629398400" duration="1901000" />
+      <workItem from="1594706994699" duration="3050000" />
+      <workItem from="1594804023798" duration="836000" />
+      <workItem from="1594867522565" duration="7304000" />
+      <workItem from="1594947762341" duration="15516000" />
+      <workItem from="1595390038312" duration="53000" />
+      <workItem from="1596093380575" duration="2338000" />
+      <workItem from="1596181820510" duration="1303000" />
+      <workItem from="1597115729267" duration="12722000" />
+      <workItem from="1597194772625" duration="22894000" />
+      <workItem from="1597281179816" duration="9562000" />
+      <workItem from="1597904126828" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="105" key="#Nosetests_for_删除作品.sczp" timestamp="1597203204862">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="105" key="#Nosetests_for_删除作品.sczp/0.0.1536.864@0.0.1536.864" timestamp="1597203204862" />
+    <state x="510" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597218851038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1597218851038" />
+    <state x="499" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597219282175">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593576195419" />
+    <state x="499" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1597219282175" />
+    <state x="548" y="174" key="FileChooserDialogImpl" timestamp="1597212560577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593679420659" />
+    <state x="548" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1597212560577" />
+    <state width="1537" height="176" key="GridCell.Tab.0.bottom" timestamp="1597288899935">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="1537" height="176" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597288899935" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036793" />
+    <state width="1537" height="176" key="GridCell.Tab.0.center" timestamp="1597288899935">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="1537" height="176" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597288899935" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036793" />
+    <state width="1537" height="176" key="GridCell.Tab.0.left" timestamp="1597288899935">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="1537" height="176" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597288899935" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036793" />
+    <state width="1537" height="176" key="GridCell.Tab.0.right" timestamp="1597288899935">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="1537" height="176" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597288899935" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036793" />
+    <state width="936" height="294" key="GridCell.Tab.1.bottom" timestamp="1597144211643">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="936" height="294" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597144211643" />
+    <state width="1921" height="125" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036780" />
+    <state width="936" height="294" key="GridCell.Tab.1.center" timestamp="1597144211643">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="936" height="294" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1597144211643" />
+    <state width="1921" height="125" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036780" />
+    <state width="936" height="294" key="GridCell.Tab.1.left" timestamp="1597144211643">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="936" height="294" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1597144211643" />
+    <state width="1921" height="125" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036780" />
+    <state width="936" height="294" key="GridCell.Tab.1.right" timestamp="1597144211643">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="281" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594206411044" />
+    <state width="936" height="294" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1597144211643" />
+    <state width="1921" height="125" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593515036780" />
+    <state x="389" y="79" key="SettingsEditor" timestamp="1597214381405">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="314" y="107" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593575928161" />
+    <state x="389" y="79" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1597214381405" />
+    <state x="392" y="206" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593512768697" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1594963441429">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1594963441429" />
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593504698648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1593504698648" />
+    <state x="498" y="187" width="672" height="565" key="search.everywhere.popup" timestamp="1597216087390">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594083049487" />
+    <state x="498" y="187" width="672" height="565" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1597216087390" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593503303240" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test08_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test08_code Coverage Results" MODIFIED="1594194482187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test06_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test06_code Coverage Results" MODIFIED="1594007379025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test19_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test19_code Coverage Results" MODIFIED="1594966319004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$all.coverage" NAME="all Coverage Results" MODIFIED="1597288899925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$cofo__1_.coverage" NAME="cofo (1) Coverage Results" MODIFIED="1594963184123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/confo" />
+    <SUITE FILE_PATH="coverage/codelab$code_api.coverage" NAME="code_api Coverage Results" MODIFIED="1597136513528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/codelab$__1_.coverage" NAME="前十团队创建十个成员 (1) Coverage Results" MODIFIED="1597144124548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test11_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test11_code Coverage Results" MODIFIED="1594195577336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test18_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test18_code Coverage Results" MODIFIED="1594966744489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for__sczp.coverage" NAME="Nosetests for 删除作品.sczp Coverage Results" MODIFIED="1597203207946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test12_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test12_code Coverage Results" MODIFIED="1594194843053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$run_allcode.coverage" NAME="run_allcode Coverage Results" MODIFIED="1593672221050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/runall_test" />
+    <SUITE FILE_PATH="coverage/codelab$code_denglu.coverage" NAME="code_denglu Coverage Results" MODIFIED="1593573724216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/confo" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test05_COD.coverage" NAME="Nosetests for code_testcase.CODE_test.test05_COD Coverage Results" MODIFIED="1593672128272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test16_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test16_code Coverage Results" MODIFIED="1594200890301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test22_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test22_code Coverage Results" MODIFIED="1597135504190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test04_COde.coverage" NAME="Nosetests for code_testcase.CODE_test.test04_COde Coverage Results" MODIFIED="1593672119118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test06_COD.coverage" NAME="Nosetests for code_testcase.CODE_test.test06_COD Coverage Results" MODIFIED="1593672142497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test01_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test01_code Coverage Results" MODIFIED="1593678051805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$yinghua.coverage" NAME="yinghua Coverage Results" MODIFIED="1594887841708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_in_code_testcase_py.coverage" NAME="Nosetests in code_testcase.py Coverage Results" MODIFIED="1593678897115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test15_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test15_code Coverage Results" MODIFIED="1594200661857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test23_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test23_code Coverage Results" MODIFIED="1597136804525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test.coverage" NAME="Nosetests for code_testcase.CODE_test Coverage Results" MODIFIED="1597136913211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$___.coverage" NAME="... Coverage Results" MODIFIED="1597140364239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test10_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test10_code Coverage Results" MODIFIED="1594194742424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test07_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test07_code Coverage Results" MODIFIED="1594007289040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test02_codel.coverage" NAME="Nosetests for code_testcase.CODE_test.test02_codel Coverage Results" MODIFIED="1593503609252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$code_conf.coverage" NAME="code_conf Coverage Results" MODIFIED="1594960531912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/confo" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test05_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test05_code Coverage Results" MODIFIED="1597137357929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_in__py.coverage" NAME="Nosetests in 删除作品.py Coverage Results" MODIFIED="1597212212363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test03_cod.coverage" NAME="Nosetests for code_testcase.CODE_test.test03_cod Coverage Results" MODIFIED="1593570822747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$cjcy__1_.coverage" NAME="cjcy (1) Coverage Results" MODIFIED="1597217753323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cjsc" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test13_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test13_code Coverage Results" MODIFIED="1594195654034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$.coverage" NAME="删除作品 Coverage Results" MODIFIED="1597215762092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test09_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test09_code Coverage Results" MODIFIED="1594195104806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$Nosetests_for_code_testcase_CODE_test_test17_code.coverage" NAME="Nosetests for code_testcase.CODE_test.test17_code Coverage Results" MODIFIED="1594707799173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/codelab$123.coverage" NAME="123 Coverage Results" MODIFIED="1594959344647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
